@@ -1,0 +1,3 @@
+variable "prix" {
+  type = string
+}
